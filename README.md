@@ -16,8 +16,8 @@
 
 &nbsp;
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=riyhs&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyhs&theme=tokyonight&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rhmdziz&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhmdziz&theme=tokyonight&layout=compact)
 
 <!--
 **rhmdziz/rhmdziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
