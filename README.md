@@ -5,9 +5,8 @@
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-green?logo=Hackerrank&logoColor=white&link=https://www.hackerrank.com/rhmdziz)](https://www.hackerrank.com/rhmdziz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/thinkaboutziz/)](https://instagram.com/thinkaboutziz)
 
-**I'm Aziz Rahmad Isnanto, Undergraduate Student at Prasetiya Mulya University**
+**I'm Aziz Rahmad Isnanto, Undergraduate Student at Prasetiya Mulya University who has a thirst for knowledge related to technology, he dreams of becoming a reliable programmer, besides that he also interested to UI/UX design.**
 
-&nbsp;
 
 ### Talking about Personal Stuffs:
 
